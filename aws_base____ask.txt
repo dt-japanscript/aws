@@ -1,0 +1,15 @@
+12/4
+
+Cloud Computing là gì?
+AWS Là Gì? pp3
+	. Availability Zone là gì?
+	. AWS Region là gì?
+AWS Dùng Làm Gì? pp3
+Tại Sao Nhiều Doanh Nghiệp Dùng AWS? pp4
+Làm Sao Để Sử Dụng AWS? pp5
+AWS Certification Là Gì? pp6
+AWS Certification Có Khó Không? pp7
+Lấy Chứng Chỉ AWS Như Thế Nào? pp8
+AWS Cloud Practicioner Là Gì? pp9
+Tiêu Chí Đánh Giá? Outline Bài Thi? Thông Tin Kỳ Thi?p p10
+Cách ôn thi AWS Cloud Practicioner? pp13
