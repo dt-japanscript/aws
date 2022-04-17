@@ -23,3 +23,14 @@ Tại sao tôi cần quan tâm đến cloud?
 IaaS, PaaS, SaaS là gì?
 FaaS là gì?
 Cloud bảo mật ra sao?
+
+17/4
+What is a client-server model?
+What is the first key value of AWS?
+What is cloud computing?
+What is pay-as-you-go pricing model?
+How many depolyment models AWS Cloud offers? And what are they?
+What is cloud-based deployment?
+What is on-premises cloud?
+What is hybrid deployment?
+Benefits of cloud computing?
