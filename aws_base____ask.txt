@@ -34,3 +34,17 @@ What is cloud-based deployment?
 What is on-premises cloud?
 What is hybrid deployment?
 Benefits of cloud computing?
+
+18/4
+Basic structure about AWS?
+What is multitenancy?
+Describe the benefits of Amazon EC2 at a basic level?
+How Amazon EC2 works?
+Why do we need Amazon EC2 instance types?
+List Amazon EC2 instance types?
+List Amazon pricing options?
+What is Amazon EC2 Auto Scaling?
+What are approaches of Amazon EC2 Auto Scaling?
+What is Elastic Load Balancing?
+What is Amazon Simple Notification Service (Amazon SNS)?
+What is Amazon Simple Queue Service (Amazon SQS)?
