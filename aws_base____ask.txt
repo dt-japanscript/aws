@@ -25,26 +25,70 @@ FaaS là gì?
 Cloud bảo mật ra sao?
 
 17/4
+What is Amazon’s server?
 What is a client-server model?
 What is the first key value of AWS?
 What is cloud computing?
 What is pay-as-you-go pricing model?
 How many depolyment models AWS Cloud offers? And what are they?
 What is cloud-based deployment?
-What is on-premises cloud?
 What is hybrid deployment?
-Benefits of cloud computing?
+What is on-premises cloud?
+Benefits of cloud computing? (6)
 
 18/4
+What is Amazon EC2? p8
 Basic structure about AWS?
 What is multitenancy?
-Describe the benefits of Amazon EC2 at a basic level?
+Describe the benefits of Amazon EC2 at a basic level? (4)
 How Amazon EC2 works?
 Why do we need Amazon EC2 instance types?
-List Amazon EC2 instance types?
-List Amazon pricing options?
+List Amazon EC2 instance types? (5) p10
+List Amazon pricing options? (5) p10
+
+21/4
+Scalability là gì?
 What is Amazon EC2 Auto Scaling?
-What are approaches of Amazon EC2 Auto Scaling?
+What are approaches of Amazon EC2 Auto Scaling? (2)
+Các thông số cần quan tâm khi cấu hình Auto Scaling group?
+What is minimum capacity of Auto Scaling group? p13
+
+What is Load Balancer?
 What is Elastic Load Balancing?
-What is Amazon Simple Notification Service (Amazon SNS)?
+Elastic Load Balancing chạy ở cấp độ nào?
+
+Lesson 11
+What is a tightly coupled architecture?
+What is a loosely coupled architecture? p15
 What is Amazon Simple Queue Service (Amazon SQS)?
+What is Amazon Simple Notification Service (Amazon SNS)?
+Amazon SNS có thể gửi những gì?
+Subcribers của dịch vụ Amazon SNS có thể là những gì?
+Một ví dụ về kiến trúc tightly coupled architecture? p16
+Cách tiếp cận vi mô microservices approach?
+
+Lesson 12
+Công việc cần làm khi  run applications trên EC2 instance?
+Serverless hay serverless compute là gì?
+AWS Lambda là gì?
+Thời gian chạy code ở AWS Lambda là bao lâu?
+Lựa chọn dịch vụ theo yêu cầu?
+
+Container là gì? p20
+Container hoạt động như thế nào?
+Docker là gì?
+What is Amazon Elastic Container Service (Amazon ECS)?
+What is Amazon Elastic Kubernetes Service (Amazon EKS)? p21
+What is AWS Fargate?
+Trong AWS, máy ảo được gọi là gì?
+
+You want to use an Amazon EC2 instance for a batch processing workload. 
+What would be the best Amazon EC2 instance type to use?
+
+What are the contract length options for Amazon EC2 Reserved Instances? 
+You have a workload that will run for a total of 6 months and can withstand interruptions. 
+
+What would be the most cost-efficient Amazon EC2 purchasing option?
+
+You want to deploy and manage containerized applications. 
+Which service should you use?
