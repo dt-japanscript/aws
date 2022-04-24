@@ -68,7 +68,7 @@ Một ví dụ về kiến trúc tightly coupled architecture? p16
 Cách tiếp cận vi mô microservices approach?
 
 Lesson 12
-Công việc cần làm khi  run applications trên EC2 instance?
+Công việc cần làm khi run applications trên EC2 instance?
 Serverless hay serverless compute là gì?
 AWS Lambda là gì?
 Thời gian chạy code ở AWS Lambda là bao lâu?
@@ -87,8 +87,22 @@ What would be the best Amazon EC2 instance type to use?
 
 What are the contract length options for Amazon EC2 Reserved Instances? 
 You have a workload that will run for a total of 6 months and can withstand interruptions. 
-
 What would be the most cost-efficient Amazon EC2 purchasing option?
 
 You want to deploy and manage containerized applications. 
 Which service should you use?
+
+23/4
+WHAT IS AWS REGION?
+WHAT IS AWS AVAILABILITY ZONE?
+“EACH REGION IS ISOLATED FROM EVERY OTHER REGION”, WHAT DOES IT MEAN?
+MỐI QUAN HỆ GIỮA EC2 INSTANCE VÀ AWS AVAILABILITY ZONE?
+What is best practice about running EC2 instances?
+
+What is CDN?
+Ưu điểm khi sử dụng CDN là gì?
+What is Amazon CloudFront?
+WHAT IS EDGE LOCATION?
+What is AWS Edge used for?
+What is AWS Outposts?
+AWS Outposts trông như thế nào?
