@@ -57,7 +57,7 @@ What is Load Balancer?
 What is Elastic Load Balancing?
 Elastic Load Balancing chạy ở cấp độ nào?
 
-Lesson 11
+LESSON 11
 What is a tightly coupled architecture?
 What is a loosely coupled architecture? p15
 What is Amazon Simple Queue Service (Amazon SQS)?
@@ -67,18 +67,22 @@ Subcribers của dịch vụ Amazon SNS có thể là những gì?
 Một ví dụ về kiến trúc tightly coupled architecture? p16
 Cách tiếp cận vi mô microservices approach?
 
-Lesson 12
+LESSON 12
 Công việc cần làm khi run applications trên EC2 instance?
 Serverless hay serverless compute là gì?
+Khi nào nên sử dụng Serverless?
 AWS Lambda là gì?
+How AWS Lambda works? (4) p19
 Thời gian chạy code ở AWS Lambda là bao lâu?
 Lựa chọn dịch vụ theo yêu cầu?
 
 Container là gì? p20
+Container bao gồm những gì? (2)
+So sánh container với máy ảo?
 Container hoạt động như thế nào?
 Docker là gì?
 What is Amazon Elastic Container Service (Amazon ECS)?
-What is Amazon Elastic Kubernetes Service (Amazon EKS)? p21
+What is Amazon Elastic Kubernetes Service (Amazon EKS)? p22
 What is AWS Fargate?
 Trong AWS, máy ảo được gọi là gì?
 
@@ -86,6 +90,7 @@ You want to use an Amazon EC2 instance for a batch processing workload.
 What would be the best Amazon EC2 instance type to use?
 
 What are the contract length options for Amazon EC2 Reserved Instances? 
+
 You have a workload that will run for a total of 6 months and can withstand interruptions. 
 What would be the most cost-efficient Amazon EC2 purchasing option?
 
@@ -96,13 +101,28 @@ Which service should you use?
 WHAT IS AWS REGION?
 WHAT IS AWS AVAILABILITY ZONE?
 “EACH REGION IS ISOLATED FROM EVERY OTHER REGION”, WHAT DOES IT MEAN?
+WHAT ARE BUSINESS FACTORS TO CHOOSE A REGION? (4)
 MỐI QUAN HỆ GIỮA EC2 INSTANCE VÀ AWS AVAILABILITY ZONE?
 What is best practice about running EC2 instances?
 
 What is CDN?
-Ưu điểm khi sử dụng CDN là gì?
+Ưu điểm khi sử dụng CDN là gì? (4)
 What is Amazon CloudFront?
 WHAT IS EDGE LOCATION?
 What is AWS Edge used for?
 What is AWS Outposts?
 AWS Outposts trông như thế nào?
+
+25/4
+Làm sao để tương tác với các dịch vụ của AWS? p29
+API là gì?
+Làm cách nào để gửi các AWS APIs?
+AWS Management Console là gì?
+AWS Command Line Interface là gì?
+AWS Software Development Kits là gì?
+AWS Elastic Beanstalk là gì?
+Các tác vụ chủ chốt mà Elastic Beanstalk có thể thực hiện?
+Elastic Beanstalk hoạt động như thế nào?
+AWS CloudFormation là gì?
+Template mô tả AWS resources bạn muốn dùng với AWS CloudFormation có định dạng gì?
+Tổng kết về các cách tương tác với dịch vụ của AWS?
