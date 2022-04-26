@@ -142,3 +142,15 @@ Khi muốn thiết lập một kết nối VPN đã được mã hóa đến tà
 Which subnet in VPC has access to Internet Gateway?
 AWS Direct Connect là gì?
 
+SUBNETS AND NETWORK ACCESS CONTROL LISTS
+Kể tên các dịch vụ quản lý cho các lớp tương ứng sau: VPC - Subnet - Instance?
+Internet Gateway là gì?
+Network ACL là gì?
+Instance Security Group là gì?
+What is stateful service?
+What is stateless service?
+Một subnet thì có bao nhiêu Network ACL?
+Một instance thì có bao nhiêu Security Group?
+Lớp bảo mật nào mặc định chặn cả traffic inbound và outbound?
+Packet là gì?
+Stateful packet filtering là gì?
