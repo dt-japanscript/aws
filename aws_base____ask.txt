@@ -105,6 +105,7 @@ WHAT ARE BUSINESS FACTORS TO CHOOSE A REGION? (4)
 MỐI QUAN HỆ GIỮA EC2 INSTANCE VÀ AWS AVAILABILITY ZONE?
 What is best practice about running EC2 instances?
 
+EDGE LOCATIONS
 What is CDN?
 Ưu điểm khi sử dụng CDN là gì? (4)
 What is Amazon CloudFront?
@@ -113,7 +114,7 @@ What is AWS Edge used for?
 What is AWS Outposts?
 AWS Outposts trông như thế nào?
 
-25/4
+25/4  - HOW TO PROVISION AWS RESOURCES
 Làm sao để tương tác với các dịch vụ của AWS? p29
 API là gì?
 Làm cách nào để gửi các AWS APIs?
@@ -126,3 +127,18 @@ Elastic Beanstalk hoạt động như thế nào?
 AWS CloudFormation là gì?
 Template mô tả AWS resources bạn muốn dùng với AWS CloudFormation có định dạng gì?
 Tổng kết về các cách tương tác với dịch vụ của AWS?
+
+26/4 - NETWORKING
+
+CONNECTIVITY TO AWS
+Your AWS resources can be public or private. What does public / private mean?
+Amazon VPC là gì?
+Subnet là gì?
+Public Subnet là gì? (p34)
+Private Subnet là gì?
+Ví dụ về Public Subnet và Private Subnet?
+Để cho phép lưu lượng truy cập từ internet công cộng vào và ra khỏi VPC, bạn phải sử dụng cái gì?
+Khi muốn thiết lập một kết nối VPN đã được mã hóa đến tài nguyên AWS internal thì ta cần làm gì?
+Which subnet in VPC has access to Internet Gateway?
+AWS Direct Connect là gì?
+
