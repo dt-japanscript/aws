@@ -167,3 +167,18 @@ Which component or service can be used to establish
 a private dedicated connection between your company’s data center and AWS?
 Which component is used to connect a VPC to the internet?
 Which service is used to manage the DNS records for domain names?
+
+INSTANCE STORE AND AMAZON EBS (module 5/11)
+Instance Store Volume là gì? p43
+Đặc điểm quan trọng cần lưu ý về Instance Store? (4)
+Một Instance Store tương ứng với bao nhiêu disk vậy lý?
+Đặc điểm của Instance Store Lifecycle?
+Vì sao khi bạn dừng (stop) hoặc huỷ (terminate) máy chủ ảo EC2 Instance thì dữ liệu sẽ mất?
+Instance Store Volumes là gì?
+Amazon EBS là gì?
+Amazon EBS Volume là gì?
+EBS có lợi thế gì mà ta phải dùng? (5)
+Cách để tạo ra một EBS Volume?
+Cách để back-up data được lưu ở EBS Volume?
+Amazon EBS snapshots là gì? p45
+What is the difference between incremental backup and full backup?
