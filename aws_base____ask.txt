@@ -117,7 +117,7 @@ AWS Outposts trông như thế nào?
 25/4  - HOW TO PROVISION AWS RESOURCES
 Làm sao để tương tác với các dịch vụ của AWS? p29
 API là gì?
-Làm cách nào để gửi các AWS APIs?
+Làm cách nào để gửi các APIs tới các tài nguyên AWS?
 AWS Management Console là gì?
 AWS Command Line Interface là gì?
 AWS Software Development Kits là gì?
@@ -134,6 +134,7 @@ CONNECTIVITY TO AWS
 Your AWS resources can be public or private. What does public / private mean?
 Amazon VPC là gì?
 Subnet là gì?
+Lý do ra đời của Subnet?
 Public Subnet là gì? (p34)
 Private Subnet là gì?
 Ví dụ về Public Subnet và Private Subnet?
@@ -154,3 +155,15 @@ Một instance thì có bao nhiêu Security Group?
 Lớp bảo mật nào mặc định chặn cả traffic inbound và outbound?
 Packet là gì?
 Stateful packet filtering là gì?
+
+GLOBAL NETWORKING (Module 4/11)
+What is DNS? (p39)
+Giải thích cách hoạt động của dịch vụ DNS?
+Amazon Route 53 là gì?
+How Amazon Route 53 and Amazon CloudFront deliver content? (p40)
+
+QUIZ (Module 4/11)
+Which component or service can be used to establish
+a private dedicated connection between your company’s data center and AWS?
+Which component is used to connect a VPC to the internet?
+Which service is used to manage the DNS records for domain names?
