@@ -187,9 +187,9 @@ What is the difference between incremental backup and full backup?
 
 AMAZON S3 (module 5/11)
 In object-level storage, what does each object consist? (3)
-Amazon S3 là gì? p46
-Các đặc điểm của Amazon S3?
-Các đặc điểm của Amazon EBS?
+Amazon S3 là gì? p46 (5)
+Các đặc điểm của Amazon S3? (4)
+Các đặc điểm của Amazon EBS? (4)
 Amazon S3 được lưu trữ ở cấp độ nào: Region, Availablity Zone, Edge locations?
 What is the maximum file size for an object in Amazon S3?
 When selecting an Amazon S3 storage class, which factors should be consider? (2)
@@ -210,3 +210,20 @@ Các trường hợp sử dụng Amazon S3?
 Tổng kết về S3, EBS và EFS?
 Trong 3 loại EBS, S3, EFS; loại nào được lưu trữ ở cấp độ Region?
 Trong 3 loại EBS, S3, EFS; loại nào là loại server-less?
+
+AMAZON RDS? (module 5/11)
+Relational databases là gì?
+RDBMS là gì? p52
+Bảng (Table) là gì?
+Field (Trường) là gì?
+Hàng hoặc bản ghi là gì?
+Column (cột) là gì?
+Giá trị NULL là gì?
+Ràng buộc (Constraint) trong SQL?
+Amazon RDS là gì?
+Các task được Amazon RDS tự động chạy là gì?
+Kể một ví dụ về cách tích hợp Amazon RDS với các dịch vụ khác?
+List Amazon RDS database engines? (6)
+Amazon Aurora là gì?
+So sánh tốc độ của Amazon Aurora với MySQL tiêu chuẩn và PostgreSQL tiêu chuẩn?
+
