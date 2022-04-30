@@ -227,3 +227,9 @@ List Amazon RDS database engines? (6)
 Amazon Aurora là gì?
 So sánh tốc độ của Amazon Aurora với MySQL tiêu chuẩn và PostgreSQL tiêu chuẩn?
 
+AMAZON DYNAMODB (module 5/11)
+Nonrelational databases là gì? p55
+Ví dụ về dữ liệu trong nonrelational database? 
+Amazon DynamoDB là gì?
+Đặc điểm nổi bật về Amazon DynamoDB? (2)
+
