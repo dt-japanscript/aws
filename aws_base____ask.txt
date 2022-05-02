@@ -233,3 +233,7 @@ Ví dụ về dữ liệu trong nonrelational database?
 Amazon DynamoDB là gì?
 Đặc điểm nổi bật về Amazon DynamoDB? (2)
 
+AMAZON REDSHIFT (module 5/11)
+Amazon Redshift là gì? p57
+Đâu là những lý do quan trọng nhất để khách hàng chọn Amazon Redshift? (3)
+OLAP là gì?
