@@ -237,3 +237,10 @@ AMAZON REDSHIFT (module 5/11)
 Amazon Redshift là gì? p57
 Đâu là những lý do quan trọng nhất để khách hàng chọn Amazon Redshift? (3)
 OLAP là gì?
+
+AWS DATABASE MIGRATION SERVICE
+What is database migration? p59
+What is homogeneous database migration?
+What is heterogeneous database migration?
+What is AWS DMS?
+What is AWS Schema Conversion Tool?
