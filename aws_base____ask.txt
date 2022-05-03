@@ -244,3 +244,11 @@ What is homogeneous database migration?
 What is heterogeneous database migration?
 What is AWS DMS?
 What is AWS Schema Conversion Tool?
+
+ADDTIONAL DATABASE SERVICES
+What is Amazon DocumentDB? p59
+What is Amazon Neptune?
+What is Amazon QLDB?
+What is Amazon Managed Blockchain?
+What is Amazon ElastiCache?
+What is Amazon DynamoDB Accelerator?
