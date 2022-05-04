@@ -271,3 +271,9 @@ If you want to use a serverless key-value database service,
 which AWS service is best for that?
 
 Which service is used to query and analyze data across a data warehouse?
+
+SHARED RESPONSIBILITY MODEL (module 6)
+What is concept of the AWS shared responsibility model? p61
+What are main things that AWS is responsible for?
+What are main things that customer is responsible for?
+How to know that AWS is meet computer security standards and regulations?
