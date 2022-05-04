@@ -242,7 +242,9 @@ AWS DATABASE MIGRATION SERVICE
 What is database migration? p59
 What is homogeneous database migration?
 What is heterogeneous database migration?
+What are differences between source and target databases in heterogeneous database migration?
 What is AWS DMS?
+What are use cases for AWS DMS?
 What is AWS Schema Conversion Tool?
 
 ADDTIONAL DATABASE SERVICES
@@ -252,3 +254,20 @@ What is Amazon QLDB?
 What is Amazon Managed Blockchain?
 What is Amazon ElastiCache?
 What is Amazon DynamoDB Accelerator?
+
+MODULE 5 QUIZ?
+EBS volumes store data within a single Availability Zone 
+or across multiple Availability Zones? p60
+
+Amazon EFS file systems store data within a single Availability Zone 
+or across multiple Availability Zones?
+
+What does “data is stored at Region Level” mean?
+
+You want to store data in an object storage service. 
+Which AWS service is best for this type of storage?
+
+If you want to use a serverless key-value database service, 
+which AWS service is best for that?
+
+Which service is used to query and analyze data across a data warehouse?
