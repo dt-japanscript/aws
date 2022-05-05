@@ -277,3 +277,13 @@ What is concept of the AWS shared responsibility model? p61
 What are main things that AWS is responsible for?
 What are main things that customer is responsible for?
 How to know that AWS is meet computer security standards and regulations?
+
+USER PERMISSIONS AND ACCESS (module 6)
+What is AWS IAM?
+Kể tên các tính năng của IAM?
+What is best practice about using root user to create other users?
+What is IAM user?
+What is IAM policy?
+What is IAM group?
+What is IAM role?
+How multi-factor authentication works?
