@@ -287,3 +287,15 @@ What is IAM policy?
 What is IAM group?
 What is IAM role?
 How multi-factor authentication works?
+
+AWS ORGANIZATIONS
+AWS Organization là gì? p66
+Mục đích của AWS Organization là gì?
+What will be created automatically when you create an AWS Organization?
+How do you centrally control permissions for the accounts in your organization?
+What is Organizational Unit?
+In designing your organization, which factors do you need to consider?
+Phân biệt AWS Organization Account và IAM User?
+Có thể sử dụng IAM vừa làm nơi để quản lý các quyền hạn, 
+và cũng là nơi để phân cấp các dịch vụ không?
+Các identity / resource mà AWS Organization có thể gán quyền cho?
