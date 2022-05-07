@@ -303,3 +303,13 @@ Các identity / resource mà AWS Organization có thể gán quyền cho?
 COMPLIANCE
 What is AWS Artifact? p69
 What are main factors of AWS Artifact?
+
+DENIAL-OF-SERVICE ATTACKS
+What is DoS attack?
+DDoS là gì?
+Các loại tấn công DoS là gì?
+Các loại tấn công DDoS là gì?
+Tác hại của DoS và DdoS là gì?
+AWS Shield là gì?
+AWS Shield Standard là gì?
+AWS Shield Advanced là gì?
