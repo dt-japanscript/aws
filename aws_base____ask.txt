@@ -299,3 +299,7 @@ Phân biệt AWS Organization Account và IAM User?
 Có thể sử dụng IAM vừa làm nơi để quản lý các quyền hạn, 
 và cũng là nơi để phân cấp các dịch vụ không?
 Các identity / resource mà AWS Organization có thể gán quyền cho?
+
+COMPLIANCE
+What is AWS Artifact? p69
+What are main factors of AWS Artifact?
