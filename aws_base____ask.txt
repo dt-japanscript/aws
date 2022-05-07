@@ -313,3 +313,15 @@ Tác hại của DoS và DdoS là gì?
 AWS Shield là gì?
 AWS Shield Standard là gì?
 AWS Shield Advanced là gì?
+
+ADDITIONAL SECURITY SERVICES
+What is “encryption at rest”?
+What is “encryption in transit”?
+What is AWS KMS?
+AWS KMS thường được ứng dụng như thế nào?
+What is cryptographic key?
+Identity / resource nào trong AWS có thể được chọn để quản lý khóa?
+Một số điểm đáng lưu ý về dịch vụ quản lý khóa này?
+What is AWS WAF?
+What is Amazon Inspector?
+What is Amazon GuardDuty?
