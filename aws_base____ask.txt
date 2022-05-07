@@ -325,3 +325,14 @@ Một số điểm đáng lưu ý về dịch vụ quản lý khóa này?
 What is AWS WAF?
 What is Amazon Inspector?
 What is Amazon GuardDuty?
+
+MODULE 6 SUMMARY AND QUIZ
+What do you have with IAM? Or what are identities in IAM?
+
+An employee requires temporary access to create several Amazon S3 buckets. 
+Which option would be the best choice for this task?
+
+Which service helps protect your applications against 
+distributed denial-of-service (DDoS) attacks?
+
+Which task can AWS Key Management Service (AWS KMS) perform?
