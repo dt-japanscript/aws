@@ -336,3 +336,8 @@ Which service helps protect your applications against
 distributed denial-of-service (DDoS) attacks?
 
 Which task can AWS Key Management Service (AWS KMS) perform?
+
+AMAZON CLOUDWATCH
+What is Amazon CloudWatch?
+What is CloudWatch alarms?
+CloudWatch dashboard là gì?
