@@ -339,5 +339,16 @@ Which task can AWS Key Management Service (AWS KMS) perform?
 
 AMAZON CLOUDWATCH
 What is Amazon CloudWatch?
-What is CloudWatch alarms?
+What is CloudWatch alarm?
 CloudWatch dashboard là gì?
+What are benefits of Amazon CloudWatch?
+
+AWS CLOUDTRAIL
+What is AWS CloudTrail?
+Which feature of AWS CloudTrail that you can use to
+detect unusual API activities in your AWS account?
+
+AWS TRUSTED ADVISOR
+What is AWS Trusted Advisor?
+What is AWS Trusted Advisor dashboard?
+
