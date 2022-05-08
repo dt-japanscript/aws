@@ -352,3 +352,6 @@ AWS TRUSTED ADVISOR
 What is AWS Trusted Advisor?
 What is AWS Trusted Advisor dashboard?
 
+AWS FREE TIER
+AWS Free Tier là gì?
+How many types of offers are from AWS Free Tier?
