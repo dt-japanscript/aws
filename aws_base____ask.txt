@@ -305,7 +305,7 @@ What is AWS Artifact? p69
 What are main factors of AWS Artifact?
 
 DENIAL-OF-SERVICE ATTACKS
-What is DoS attack?
+What is DoS attack? p.69
 DDoS là gì?
 Các loại tấn công DoS là gì?
 Các loại tấn công DDoS là gì?
@@ -315,7 +315,7 @@ AWS Shield Standard là gì?
 AWS Shield Advanced là gì?
 
 ADDITIONAL SECURITY SERVICES
-What is “encryption at rest”?
+What is “encryption at rest”? p.71
 What is “encryption in transit”?
 What is AWS KMS?
 AWS KMS thường được ứng dụng như thế nào?
@@ -338,20 +338,27 @@ distributed denial-of-service (DDoS) attacks?
 Which task can AWS Key Management Service (AWS KMS) perform?
 
 AMAZON CLOUDWATCH
-What is Amazon CloudWatch?
+What is Amazon CloudWatch? p.74
 What is CloudWatch alarm?
 CloudWatch dashboard là gì?
 What are benefits of Amazon CloudWatch?
 
 AWS CLOUDTRAIL
-What is AWS CloudTrail?
+What is AWS CloudTrail? p.75
 Which feature of AWS CloudTrail that you can use to
 detect unusual API activities in your AWS account?
 
 AWS TRUSTED ADVISOR
-What is AWS Trusted Advisor?
+What is AWS Trusted Advisor? p.76
 What is AWS Trusted Advisor dashboard?
 
 AWS FREE TIER
-AWS Free Tier là gì?
+AWS Free Tier là gì? p.77
 How many types of offers are from AWS Free Tier?
+
+AWS PRICING CONCEPT
+How AWS pricing works? (3) p.78
+AWS Pricing Calculator là gì?
+How AWS Lambda pricing works? (2)
+How Amazon EC2 pricing works? (3)
+How Amazon S3 pricing works? (4)
