@@ -299,6 +299,7 @@ Phân biệt AWS Organization Account và IAM User?
 Có thể sử dụng IAM vừa làm nơi để quản lý các quyền hạn, 
 và cũng là nơi để phân cấp các dịch vụ không?
 Các identity / resource mà AWS Organization có thể gán quyền cho?
+What is maximum number of accounts allowed for an Organization?
 
 COMPLIANCE
 What is AWS Artifact? p69
@@ -362,3 +363,14 @@ AWS Pricing Calculator là gì?
 How AWS Lambda pricing works? (2)
 How Amazon EC2 pricing works? (3)
 How Amazon S3 pricing works? (4)
+
+BILLING DASHBOARD p.79
+What is AWS Billing?
+
+CONSOLIDATED BILLING p.79
+What is consolidated billing?
+Tại sao phải hợp nhất hóa đơn cho tất cả tài khoản AWS của tổ chức?
+How consolidated billing works?
+
+AWS BUDGETS p.81
+What is AWS Budgets?
