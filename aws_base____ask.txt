@@ -374,3 +374,7 @@ How consolidated billing works?
 
 AWS BUDGETS p.81
 What is AWS Budgets?
+
+AWS COST EXPLORER
+AWS Cost Explorer là gì?
+Is there a feature called “tagging” in AWS Cost Explorer? What is it used for?
