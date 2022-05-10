@@ -378,3 +378,13 @@ What is AWS Budgets?
 AWS COST EXPLORER
 AWS Cost Explorer là gì?
 Is there a feature called “tagging” in AWS Cost Explorer? What is it used for?
+
+AWS SUPPORT PLANS p.82
+What are AWS Support plans?
+Details of Basic Support?
+Details of Developer Support?
+Details of Business Support?
+Details of Enterprise Support?
+What is Technical Account Manager (TAM)?
+Which Support plan includes all AWS Trusted Advisor checks at the lowest cost?
+Which Support Plans include all AWS Trusted Advisor checks?
