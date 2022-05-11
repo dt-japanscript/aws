@@ -405,3 +405,13 @@ Your company wants to receive support from an AWS Technical Account Manager (TAM
 Which support plan should you choose?
 
 Which service or resource is used to find third-party software that runs on AWS?
+
+AWS CAF p.85
+What is AWS CAF?
+An overview about AWS CAF?
+Details of Business Perspective?
+Details of People Perspective?
+Details of Governance Perspective?
+Details of Platform Perspective?
+Details of Security Perspective?
+Details of Operations Perspective?
