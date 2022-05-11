@@ -425,3 +425,11 @@ What is Repurchasing?
 What is Retaining?
 What is Retiring?
 Which migration strategy involves moving to a different product?
+
+AWS SNOW FAMILY p.90
+What is AWS Snow Family?
+Tại sao lại cần sử dụng AWS Snow Family?
+What is AWS Snowcone?
+What is AWS Snowball?
+What is AWS Snowmobile?
+What is the storage capacity of Snowball Edge Storage Optimized?
