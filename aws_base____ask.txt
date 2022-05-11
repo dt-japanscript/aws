@@ -415,3 +415,13 @@ Details of Governance Perspective?
 Details of Platform Perspective?
 Details of Security Perspective?
 Details of Operations Perspective?
+
+MIGRATION STRATEGIES p.88
+What are 6 R’s?
+What is Rehosting?
+What is Replatforming?
+What is Refactoring/ re-architecting?
+What is Repurchasing?
+What is Retaining?
+What is Retiring?
+Which migration strategy involves moving to a different product?
