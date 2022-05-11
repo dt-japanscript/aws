@@ -433,3 +433,9 @@ What is AWS Snowcone?
 What is AWS Snowball?
 What is AWS Snowmobile?
 What is the storage capacity of Snowball Edge Storage Optimized?
+
+MODULE 9 SUMMARY AND QUIZ p.91
+Which Perspective of the AWS Cloud Adoption Framework 
+helps you structure the selection and implementation of permissions?
+
+What is the storage capacity of AWS Snowmobile?
