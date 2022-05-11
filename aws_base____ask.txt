@@ -448,3 +448,10 @@ Details of “Security” pillar?
 Details of “Reliability” pillar?
 Details of “Performance efficiency” pillar?
 Details of “Cost optimization” pillar?
+
+BENEFITS OF THE AWS CLOUD p.94
+What are advantages of cloud computing?
+
+MODULE 10 SUMMARY AND QUIZ p.94
+Which pillar of the AWS Well-Architected Framework includes the ability 
+to run workloads effectively and gain insights into their operations?
