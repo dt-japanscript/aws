@@ -439,3 +439,12 @@ Which Perspective of the AWS Cloud Adoption Framework
 helps you structure the selection and implementation of permissions?
 
 What is the storage capacity of AWS Snowmobile?
+
+THE AWS WELL-ARCHITECTED FRAMEWORK p.92
+What is The AWS Well-Architected Framework?
+What are pillars of The AWS Well-Architected Framework?
+Details of “Operational excellence” pillar?
+Details of “Security” pillar?
+Details of “Reliability” pillar?
+Details of “Performance efficiency” pillar?
+Details of “Cost optimization” pillar?
