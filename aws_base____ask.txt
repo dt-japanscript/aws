@@ -455,3 +455,5 @@ What are advantages of cloud computing?
 MODULE 10 SUMMARY AND QUIZ p.94
 Which pillar of the AWS Well-Architected Framework includes the ability 
 to run workloads effectively and gain insights into their operations?
+
+AWS CERTIFIED CLOUD PRACTITIONER BASICS p.95
