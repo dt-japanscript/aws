@@ -457,3 +457,5 @@ Which pillar of the AWS Well-Architected Framework includes the ability
 to run workloads effectively and gain insights into their operations?
 
 AWS CERTIFIED CLOUD PRACTITIONER BASICS p.95
+
+FINAL ASSESSMENT p.96
